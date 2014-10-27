@@ -1,0 +1,10 @@
+" Vromerc config file
+
+
+" j/k goes up/down by 10 lines
+map j 10j
+map k 10k
+
+" h/l change tabs
+map h gT 
+map l gt
